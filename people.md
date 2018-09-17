@@ -8,8 +8,6 @@ categories: main
 
 # The Team
 
-## [Timesheet](https://docs.google.com/spreadsheets/d/1wiqjc95KVby1mdcQAvUjbeCjhn1wLWUo60Y3Y3QTwco/edit?usp=sharing)
-
 {% for member in site.data.team %}
   {% if member.github == "" %}
   {{ member.name }}  
@@ -25,12 +23,12 @@ categories: main
 
 {% for member in site.data.faculty %}
   {{ member.name }}  
-  _{{ member.email }}_ 
+  _{{ member.email }}_
 {% endfor %}
 
 # Sponsor
 
 {% for member in site.data.sponsors %}
   {{ member.name }}  
-  _{{ member.email }}_ 
+  _{{ member.email }}_
 {% endfor %}

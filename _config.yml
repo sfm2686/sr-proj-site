@@ -1,18 +1,15 @@
 # Setup
-title:        CIAS Class Cal
-tagline:      A scheduling system that transcends space and time
+title:        Tops Product Locator
+tagline:      A mobile/desktop application to locate products in Tops Friendly Market stores
 baseurl:      ""
 locale:       "en"
 
 # About/contact
 author:
   name:       The Team
-  url:        classcal.se.rit.edu
+  url:        topsproductlocator.se.rit.edu
 
 # Gems
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
-
-#Others
-markdown: kramdown

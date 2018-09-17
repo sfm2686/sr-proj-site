@@ -7,4 +7,4 @@ categories: main
 
 # Our Process
 
-Under Construction
+Iterative
