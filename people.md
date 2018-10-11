@@ -26,7 +26,7 @@ categories: main
   _{{ member.email }}_
 {% endfor %}
 
-# Sponsor
+# Sponsors
 
 {% for member in site.data.sponsors %}
   {{ member.name }}  

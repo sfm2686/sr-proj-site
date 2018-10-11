@@ -1,15 +1,17 @@
 # Setup
 title:        Tops Product Locator
 tagline:      A mobile/web application to locate products in Tops Friendly Market stores
-baseurl:      ""
+baseurl:      "~topteam"
 locale:       "en"
 
-# About/contact
-author:
-  name:       The Team
-  url:        topsproductlocator.se.rit.edu
+# # About/contact
+# author:
+#   name:       The Team
 
 # Gems
 plugins:
   - jekyll-paginate
   - jekyll-redirect-from
+
+#Others
+markdown: kramdown
