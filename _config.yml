@@ -4,10 +4,6 @@ tagline:      A mobile/web application to locate products in Tops Friendly Marke
 baseurl:      "~topteam"
 locale:       "en"
 
-# # About/contact
-# author:
-#   name:       The Team
-
 # Gems
 plugins:
   - jekyll-paginate
